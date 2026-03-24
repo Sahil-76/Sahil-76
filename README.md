@@ -56,3 +56,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   <h1> Cv </h1>
+<p align="center">
+  <a href="TCL.pdf">
+    <img src="https://img.shields.io/badge/CV-Dark_Mode-black?style=for-the-badge"/>
+  </a>
+  <a href="TCL.pdf">
+    <img src="https://img.shields.io/badge/CV-Light_Mode-white?style=for-the-badge&logoColor=black"/>
+  </a>
+</p>
+  
